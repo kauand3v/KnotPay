@@ -7,7 +7,7 @@
 ## 🇧🇷 Português (PT-BR)
 
 ### ⚠️ Aviso de Estudo Arquitetural
-Este repositório é um projeto de pesquisa arquitetural, explorando os limites de pipelines transacionais de alta frequência. O objetivo é avaliar a interoperabilidade entre diferentes runtimes e os trade-offs de performance de uma abordagem poliglota. **Trata‑se de um protótipo conceitual e um projeto de arquitetura em desenvolvimento.**
+Este repositório é um projeto de pesquisa arquitetural, explorando os limites de pipelines transacionais de alta frequência. O objetivo é avaliar a interoperabilidade entre diferentes runtimes e os trade-offs de performance de uma abordagem poliglota. **Trata‑se de um protótipo conceitual e um projeto de arquitetura em desenvolvimento..**
 
 ---
 
